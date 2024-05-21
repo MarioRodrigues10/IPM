@@ -1,4 +1,7 @@
 # IPM-Project: E.S.Ideal
+
+# Grade: 19/20 ⭐
+
 ## Overview
 This project implements a user interface for employees of ES.Ideal, a fictional service station with car workshops, 
 using Vue.js for the frontend and json-server for simulating a backend API. This interface provides a central hub for
